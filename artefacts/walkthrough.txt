@@ -1,4 +1,5 @@
 take tablet
+use tablet
 doorway
 north
 north
@@ -50,4 +51,34 @@ take teleporter
 use teleporter
 take business card
 take strange book
-look strange book
+use teleporter
+fix
+use teleporter
+north
+north
+north
+north
+north
+north
+north
+east
+take journal
+west
+north
+north
+take orb
+north
+east
+east
+north
+west
+south
+east
+east
+west
+north
+north
+east
+vault
+take mirror
+use mirror
