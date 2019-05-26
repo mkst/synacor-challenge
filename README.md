@@ -10,13 +10,14 @@ Codes discovered so far:
  - `wLCVsTGpgzqR` (pre-selftest)
  - `KCojPVcoOdVP` (post-selftest)
  - `AqxdDiCYrzVE` ("use tablet")
+ - `LiIsPRxEauVr` (Chiseled on the wall of one of the passageways...)
  - `EjNzmoeZrZQC` ("use teleporter" when broken)
- - `????????????` ("use teleporter" once fixed)
- - `dxVYIIAbxMl8` => `bxVYIIAdxMl8` ("use mirror")
+ - `????????????` ("use teleporter" with correct Register 7 value)
+ - `dxVYIIAbxMl8` => `bxVYIIAdxMl8` ("use mirror", reverse, `b`=>`d`, `d`=>`b`)
 
 ## Walkthrough
 
-Commands can be found in [walkthrough.txt](/artefacts/walkthru.txt)
+Commands can be found in [walkthrough.txt](/artefacts/walkthrough.txt)
 
 ### Coins
 
